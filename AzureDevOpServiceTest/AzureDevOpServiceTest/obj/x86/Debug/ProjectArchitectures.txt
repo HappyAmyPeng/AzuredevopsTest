@@ -1,0 +1,1 @@
+C:\Users\fapeng\Desktop\Case Sample\MSDN\AzureDevOpServiceTest\AzureDevOpServiceTest\AzureDevOpServiceTest.csproj;x86
